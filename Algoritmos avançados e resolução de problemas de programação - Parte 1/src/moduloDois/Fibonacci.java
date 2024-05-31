@@ -2,7 +2,7 @@ package moduloDois;
 
 public class Fibonacci {
 
-	private static final int MAXIMO_ELEMENTOS = 100;
+	private static final int MAXIMO_ELEMENTOS = 90000;
 	private static final long[] elemFib = new long[MAXIMO_ELEMENTOS];
 
 	public static long encontrarElementoPD(int n) {

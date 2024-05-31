@@ -4,7 +4,7 @@ import java.math.BigInteger;
 
 public class Fatorial {
 	
-	 private static final int MAXIMO_ELEM = 800;
+	 private static final int MAXIMO_ELEM = 10000;
 	    private static final BigInteger[] elemFat = new BigInteger[MAXIMO_ELEM];
 
 	    public static BigInteger fatEle(long numFatorial) {
